@@ -1,0 +1,1 @@
+The purpose of the analysis is to explore the customer satisfaction toward different Xperia handsets which are scraped from Amazon product review pages (the scraper script can be found in amazon_review_scrapper.ipynb notebook), and to build a simple prediction model to predict whether a product review is positive/neural/negative
