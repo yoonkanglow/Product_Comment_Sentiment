@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt # plot charts
 from matplotlib import style
 import seaborn as sns # different chart ploting module
 import re # regex (regular expression) 
-import matplotlib
+matplotlib.style.use('ggplot")
 from __future__ import absolute_import, division, print_function
 # to display charts in jupyter notebook
 
